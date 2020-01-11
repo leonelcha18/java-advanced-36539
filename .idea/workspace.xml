@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f4d55b5a-4857-4d2c-bd5b-ef1a140ee8de" name="Default Changelist" comment="" />
+    <list default="true" id="f4d55b5a-4857-4d2c-bd5b-ef1a140ee8de" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/educacionit/orders/class01/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +20,14 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Leonel Chaves" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -23,12 +36,16 @@
     </option>
   </component>
   <component name="ProjectId" id="1WFj3yohHQGFGfE3NecZLaFDURv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -90,17 +107,26 @@
       <option name="presentableId" value="Default" />
       <updated>1578752041275</updated>
       <workItem from="1578752043387" duration="5025000" />
+      <workItem from="1578758069378" duration="379000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Probando mi primer commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Probando mi primer commit" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="488" y="83" key="#com.intellij.ide.util.MemberChooser" timestamp="1578753558672">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="488" y="83" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1578753558672" />
+    <state x="256" y="0" key="CommitChangelistDialog2" timestamp="1578758422056">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="256" y="0" key="CommitChangelistDialog2/0.0.1360.728@0.0.1360.728" timestamp="1578758422056" />
     <state width="1323" height="86" key="GridCell.Tab.0.bottom" timestamp="1578757218758">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
