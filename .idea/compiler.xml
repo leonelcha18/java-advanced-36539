@@ -9,5 +9,8 @@
         <module name="java-advanced-36539" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="java-advanced-36539" target="8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
