@@ -2,10 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f4d55b5a-4857-4d2c-bd5b-ef1a140ee8de" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/educacionit/orders/class01/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/educacionit/orders/class01/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/educacionit/orders/class01/App$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/educacionit/orders/class01/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/educacionit/orders/class01/EmailNotification.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/educacionit/orders/class01/INotification.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/educacionit/orders/class01/PushNotification.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +31,7 @@
       </list>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SIGN_OFF_COMMIT" value="true" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -107,8 +112,16 @@
       <option name="presentableId" value="Default" />
       <updated>1578752041275</updated>
       <workItem from="1578752043387" duration="5025000" />
-      <workItem from="1578758069378" duration="379000" />
+      <workItem from="1578758069378" duration="707000" />
     </task>
+    <task id="LOCAL-00001" summary="Probando mi primer commit">
+      <created>1578758466249</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1578758466249</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -123,10 +136,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="488" y="83" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1578753558672" />
-    <state x="256" y="0" key="CommitChangelistDialog2" timestamp="1578758422056">
+    <state x="256" y="0" key="CommitChangelistDialog2" timestamp="1578758465889">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state x="256" y="0" key="CommitChangelistDialog2/0.0.1360.728@0.0.1360.728" timestamp="1578758422056" />
+    <state x="256" y="0" key="CommitChangelistDialog2/0.0.1360.728@0.0.1360.728" timestamp="1578758465889" />
     <state width="1323" height="86" key="GridCell.Tab.0.bottom" timestamp="1578757218758">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -147,6 +160,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="186" y="10" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1578756834485" />
+    <state x="272" y="97" key="Vcs.Push.Dialog.v2" timestamp="1578758527942">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="272" y="97" key="Vcs.Push.Dialog.v2/0.0.1360.728@0.0.1360.728" timestamp="1578758527942" />
     <state x="390" y="192" key="com.intellij.ide.util.TipDialog" timestamp="1578752045311">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
