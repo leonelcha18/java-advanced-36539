@@ -1,9 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="522fa7c1-a7ae-46a4-9250-17b445f583f4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/educacionit/orders/class01/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/educacionit/orders/class01/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/educacionit/orders/class01/EmailNotification.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/educacionit/orders/class01/EmailNotification.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/educacionit/orders/class01/INotification.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/educacionit/orders/class01/INotification.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/educacionit/orders/class01/PushNotification.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/educacionit/orders/class01/PushNotification.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Leonel Chaves &lt;leonel.a.cha@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1WFwvp8TKQvwuTrmYy6uvcPPEE9" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -11,5 +33,57 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="522fa7c1-a7ae-46a4-9250-17b445f583f4" name="Default Changelist" comment="" />
+      <created>1578758883816</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578758883816</updated>
+      <workItem from="1578758884966" duration="935000" />
+      <workItem from="1578759844615" duration="115000" />
+    </task>
+    <task id="LOCAL-00001" summary="Limpiando repo...">
+      <created>1578758909229</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1578758909229</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Limpiando repo..." />
+    <option name="LAST_COMMIT_MESSAGE" value="Limpiando repo..." />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="256" y="0" key="CommitChangelistDialog2" timestamp="1578758908832">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="256" y="0" key="CommitChangelistDialog2/0.0.1360.728@0.0.1360.728" timestamp="1578758908832" />
+    <state x="272" y="97" key="Vcs.Push.Dialog.v2" timestamp="1578759990814">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="272" y="97" key="Vcs.Push.Dialog.v2/0.0.1360.728@0.0.1360.728" timestamp="1578759990814" />
   </component>
 </project>
