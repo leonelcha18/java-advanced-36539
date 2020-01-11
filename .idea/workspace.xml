@@ -1,17 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="522fa7c1-a7ae-46a4-9250-17b445f583f4" name="Default Changelist" comment="">
+    <list default="true" id="522fa7c1-a7ae-46a4-9250-17b445f583f4" name="Default Changelist" comment="Actualizando repo">
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/educacionit/orders/class01/App2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/educacionit/orders/class01/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/educacionit/orders/class01/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/educacionit/orders/class01/EmailNotification.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/educacionit/orders/class01/EmailNotification.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/educacionit/orders/class01/INotification.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/educacionit/orders/class01/INotification.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/educacionit/orders/class01/PushNotification.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/educacionit/orders/class01/PushNotification.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
@@ -57,7 +62,7 @@
       <option name="presentableId" value="Default" />
       <updated>1578758883816</updated>
       <workItem from="1578758884966" duration="935000" />
-      <workItem from="1578759844615" duration="115000" />
+      <workItem from="1578759844615" duration="1867000" />
     </task>
     <task id="LOCAL-00001" summary="Limpiando repo...">
       <created>1578758909229</created>
@@ -66,7 +71,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578758909229</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Actualizando repo">
+      <created>1578760028220</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1578760028220</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -74,16 +86,21 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Limpiando repo..." />
-    <option name="LAST_COMMIT_MESSAGE" value="Limpiando repo..." />
+    <MESSAGE value="Actualizando repo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Actualizando repo" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="256" y="0" key="CommitChangelistDialog2" timestamp="1578758908832">
+    <state x="256" y="0" key="CommitChangelistDialog2" timestamp="1578760451327">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state x="256" y="0" key="CommitChangelistDialog2/0.0.1360.728@0.0.1360.728" timestamp="1578758908832" />
-    <state x="272" y="97" key="Vcs.Push.Dialog.v2" timestamp="1578759990814">
+    <state x="256" y="0" key="CommitChangelistDialog2/0.0.1360.728@0.0.1360.728" timestamp="1578760451327" />
+    <state x="272" y="97" key="Vcs.Push.Dialog.v2" timestamp="1578760392810">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state x="272" y="97" key="Vcs.Push.Dialog.v2/0.0.1360.728@0.0.1360.728" timestamp="1578759990814" />
+    <state x="272" y="97" key="Vcs.Push.Dialog.v2/0.0.1360.728@0.0.1360.728" timestamp="1578760392810" />
+    <state x="375" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1578761728473">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="375" y="188" key="com.intellij.ide.util.TipDialog/0.0.1360.728@0.0.1360.728" timestamp="1578761728473" />
   </component>
 </project>
