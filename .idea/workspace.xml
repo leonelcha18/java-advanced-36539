@@ -1,15 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="522fa7c1-a7ae-46a4-9250-17b445f583f4" name="Default Changelist" comment="Actualizando repo">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="522fa7c1-a7ae-46a4-9250-17b445f583f4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/educacionit/orders/class01/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/educacionit/orders/class01/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/educacionit/orders/class01/App2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/educacionit/orders/class01/App2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/educacionit/orders/class01/EmailNotification.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/educacionit/orders/class01/EmailNotification.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/educacionit/orders/class01/INotification.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/educacionit/orders/class01/INotification.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/educacionit/orders/class01/PushNotification.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/educacionit/orders/class01/PushNotification.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,10 +40,12 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="add_unversioned_files" value="true" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -75,7 +71,8 @@
       <updated>1578758883816</updated>
       <workItem from="1578758884966" duration="935000" />
       <workItem from="1578759844615" duration="1867000" />
-      <workItem from="1578859898728" duration="370000" />
+      <workItem from="1578859898728" duration="1168000" />
+      <workItem from="1578861075311" duration="264000" />
     </task>
     <task id="LOCAL-00001" summary="Limpiando repo...">
       <created>1578758909229</created>
@@ -91,7 +88,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578760028220</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Corrección">
+      <created>1578860399124</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1578860399124</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -100,25 +104,32 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Limpiando repo..." />
     <MESSAGE value="Actualizando repo" />
-    <option name="LAST_COMMIT_MESSAGE" value="Actualizando repo" />
+    <MESSAGE value="Corrección" />
+    <option name="LAST_COMMIT_MESSAGE" value="Corrección" />
   </component>
   <component name="WindowStateProjectService">
     <state x="552" y="179" key="#Project_Structure" timestamp="1578859997352">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="179" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1578859997352" />
-    <state x="361" y="0" key="CommitChangelistDialog2" timestamp="1578860351180">
+    <state x="361" y="0" key="CommitChangelistDialog2" timestamp="1578860398680">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="256" y="0" key="CommitChangelistDialog2/0.0.1360.728@0.0.1360.728" timestamp="1578760451327" />
-    <state x="361" y="0" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1578860351180" />
-    <state x="272" y="97" key="Vcs.Push.Dialog.v2" timestamp="1578760392810">
-      <screen x="0" y="0" width="1360" height="728" />
+    <state x="361" y="0" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1578860398680" />
+    <state x="461" y="163" key="SettingsEditor" timestamp="1578861066898">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="163" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1578861066898" />
+    <state x="384" y="139" key="Vcs.Push.Dialog.v2" timestamp="1578861273154">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="272" y="97" key="Vcs.Push.Dialog.v2/0.0.1360.728@0.0.1360.728" timestamp="1578760392810" />
-    <state x="375" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1578761728473">
-      <screen x="0" y="0" width="1360" height="728" />
+    <state x="384" y="139" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1578861273154" />
+    <state x="529" y="269" key="com.intellij.ide.util.TipDialog" timestamp="1578861076877">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="375" y="188" key="com.intellij.ide.util.TipDialog/0.0.1360.728@0.0.1360.728" timestamp="1578761728473" />
+    <state x="529" y="269" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578861076877" />
   </component>
 </project>
