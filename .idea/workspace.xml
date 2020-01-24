@@ -1,13 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1143f1df-c58f-4825-bc9b-a37cdf1068e8" name="Default Changelist" comment="" />
+    <list default="true" id="522fa7c1-a7ae-46a4-9250-17b445f583f4" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Leonel Chaves &lt;leonel.a.cha@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1WqKZww23n6IgF2MQtAhrQEO0F2" />
@@ -49,19 +54,35 @@
       <updated>1579871743799</updated>
       <workItem from="1579871745095" duration="511000" />
     </task>
+    <task id="LOCAL-00001" summary="Modificación sin errores">
+      <created>1579872543841</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1579872543842</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Modificación sin errores" />
+    <option name="LAST_COMMIT_MESSAGE" value="Modificación sin errores" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="469" y="115" key="CommitChangelistDialog2" timestamp="1579872482620">
+    <state x="469" y="115" key="CommitChangelistDialog2" timestamp="1579872543414">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="469" y="115" key="CommitChangelistDialog2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1579872482620" />
+    <state x="469" y="115" key="CommitChangelistDialog2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1579872543414" />
     <state x="260" y="276" key="FileChooserDialogImpl" timestamp="1579871884631">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="260" y="276" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1579871884631" />
+    <state x="552" y="254" key="Vcs.Push.Dialog.v2" timestamp="1579872582970">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="254" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1579872582970" />
   </component>
 </project>
