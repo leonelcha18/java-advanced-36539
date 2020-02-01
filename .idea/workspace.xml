@@ -1,11 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="522fa7c1-a7ae-46a4-9250-17b445f583f4" name="Default Changelist" comment="" />
+    <list default="true" id="522fa7c1-a7ae-46a4-9250-17b445f583f4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/educacionit/orders/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/educacionit/orders/SendMail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/educacionit/orders/util/LoadFilesJob.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/educacionit/orders/util/LoadFilesJobThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/customers1.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/customers2.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/customers3.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/setup.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/educacionit/orders/util/CSVReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/educacionit/orders/util/CSVReaderService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/customers.csv" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/customers.csv.problems" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
@@ -14,6 +37,13 @@
       </list>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
   </component>
   <component name="ProjectId" id="1WqKZww23n6IgF2MQtAhrQEO0F2" />
   <component name="ProjectViewState">
@@ -24,11 +54,16 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../com.educacionit.java.advanced-master" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Leonel\Documents\IdeaProjects\En clase\Clase03\src\main\resources" />
+    </key>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -47,12 +82,13 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="1143f1df-c58f-4825-bc9b-a37cdf1068e8" name="Default Changelist" comment="" />
+      <changelist id="522fa7c1-a7ae-46a4-9250-17b445f583f4" name="Default Changelist" comment="" />
       <created>1579871743799</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1579871743799</updated>
       <workItem from="1579871745095" duration="511000" />
+      <workItem from="1580556685426" duration="1317000" />
     </task>
     <task id="LOCAL-00001" summary="Modificación sin errores">
       <created>1579872543841</created>
@@ -76,13 +112,21 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="469" y="115" key="CommitChangelistDialog2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1579872543414" />
-    <state x="260" y="276" key="FileChooserDialogImpl" timestamp="1579871884631">
+    <state x="260" y="276" key="FileChooserDialogImpl" timestamp="1580556699990">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="260" y="276" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1579871884631" />
+    <state x="260" y="276" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1580556699990" />
+    <state x="461" y="163" key="SettingsEditor" timestamp="1580558003214">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="163" key="SettingsEditor/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1580558003214" />
     <state x="552" y="254" key="Vcs.Push.Dialog.v2" timestamp="1579872582970">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="254" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1579872582970" />
+    <state x="656" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1580556685600">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1580556685600" />
   </component>
 </project>

@@ -7,9 +7,11 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="java-advanced-36539" />
+        <module name="Clase03" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="Clase03" target="8" />
       <module name="java-advanced-36539" target="8" />
     </bytecodeTargetLevel>
   </component>
