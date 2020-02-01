@@ -2,21 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="522fa7c1-a7ae-46a4-9250-17b445f583f4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/educacionit/orders/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/educacionit/orders/SendMail.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/educacionit/orders/util/LoadFilesJob.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/educacionit/orders/util/LoadFilesJobThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/customers1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/customers2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/customers3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/setup.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/educacionit/orders/util/CSVReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/educacionit/orders/util/CSVReaderService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/customers.csv" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/customers.csv.problems" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/educacionit/orders/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/educacionit/orders/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/educacionit/orders/util/CSVReaderService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/educacionit/orders/util/CSVReaderService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/educacionit/orders/util/LoadFilesJob.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/educacionit/orders/util/LoadFilesJob.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/educacionit/orders/util/LoadFilesJobThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/educacionit/orders/util/LoadFilesJobThread.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,6 +55,26 @@
       <recent name="C:\Users\Leonel\Documents\IdeaProjects\En clase\Clase03\src\main\resources" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.educacionit.orders.App" />
+      <module name="Clase03" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.educacionit.orders.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
       <list>
@@ -89,6 +99,7 @@
       <updated>1579871743799</updated>
       <workItem from="1579871745095" duration="511000" />
       <workItem from="1580556685426" duration="1317000" />
+      <workItem from="1580558012879" duration="1355000" />
     </task>
     <task id="LOCAL-00001" summary="Modificación sin errores">
       <created>1579872543841</created>
@@ -97,7 +108,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579872543842</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Actualización de clase03">
+      <created>1580558079418</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1580558079418</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -105,25 +123,42 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Modificación sin errores" />
-    <option name="LAST_COMMIT_MESSAGE" value="Modificación sin errores" />
+    <MESSAGE value="Actualización de clase03" />
+    <option name="LAST_COMMIT_MESSAGE" value="Actualización de clase03" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="469" y="115" key="CommitChangelistDialog2" timestamp="1579872543414">
+    <state x="469" y="115" key="CommitChangelistDialog2" timestamp="1580560289513">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="469" y="115" key="CommitChangelistDialog2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1579872543414" />
+    <state x="469" y="115" key="CommitChangelistDialog2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1580560289513" />
     <state x="260" y="276" key="FileChooserDialogImpl" timestamp="1580556699990">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="260" y="276" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1580556699990" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1580558755100">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1580558755100" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1580558755100">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1580558755100" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1580558755099">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1580558755099" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1580558755100">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1580558755100" />
     <state x="461" y="163" key="SettingsEditor" timestamp="1580558003214">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="163" key="SettingsEditor/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1580558003214" />
-    <state x="552" y="254" key="Vcs.Push.Dialog.v2" timestamp="1579872582970">
+    <state x="552" y="254" key="Vcs.Push.Dialog.v2" timestamp="1580558098824">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="254" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1579872582970" />
+    <state x="552" y="254" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1580558098824" />
     <state x="656" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1580556685600">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

@@ -10,16 +10,13 @@ import java.util.Properties;
 public class App {
     private static final Logger logger = Logger.getLogger(App.class);
 
-
     public static void main(String[] args) throws Exception {
-
         logger.info("Starting...");
 
         // Load setup file.
         logger.debug("Loading file properties [setup.properties]");
         Properties prop = new Properties();
         prop.load(App.class.getClassLoader().getResourceAsStream("setup.properties"));
-
 
         // Specify the job' s details..
         logger.debug("Creating LoadFilesJob Job...");

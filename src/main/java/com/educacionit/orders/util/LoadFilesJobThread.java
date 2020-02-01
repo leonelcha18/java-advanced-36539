@@ -20,7 +20,6 @@ public class LoadFilesJobThread implements Job {
 
     private static final Logger logger = Logger.getLogger(LoadFilesJobThread.class);
 
-
     public void execute(JobExecutionContext context) throws JobExecutionException {
 
         logger.debug ("Finding CVS files...");
@@ -37,10 +36,9 @@ public class LoadFilesJobThread implements Job {
                     .filter(f -> f.endsWith(extension)).collect(Collectors.toList());
 
             logger.debug (String.format("Files %d found !!!", result.size()));
-            result.forEach ( (e) -> {
+            result.forEach((e) -> {
 
-                new Thread (() -> {
-
+                new Thread(() -> {
                     try {
                         logger.debug(String.format("Thread Name %s --> Parsing %s", Thread.currentThread().getName(), e));
                         this.csvReaderService.load(e);
@@ -48,16 +46,14 @@ public class LoadFilesJobThread implements Job {
                         Files.move(Paths.get(e), Paths.get(e.concat(".done")));
 
                     } catch (Exception ex) {
-
-                        logger.error (String.format("Thread Name %s -- >Problems changing the name to %s", Thread.currentThread().getName(), e), ex);
+                        logger.error(String.format("Thread Name %s -- >Problems changing the name to %s", Thread.currentThread().getName(), e), ex);
                     }
 
                 }).start();
             });
 
         } catch (IOException e) {
-
-            logger.error (String.format("Problems loading files %s from %s", extension, path), e);
+            logger.error(String.format("Problems loading files %s from %s", extension, path), e);
         }
     }
 }

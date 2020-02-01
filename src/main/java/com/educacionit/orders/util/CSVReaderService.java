@@ -8,29 +8,28 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-
 public class CSVReaderService {
     private static final Logger logger = Logger.getLogger(CSVReaderService.class);
 
     public CSVReaderService() {
-        super ();
+        super();
     }
 
     public List<CustomerDTO> load(String path) {
-        logger.debug (String.format ("Reading file %s", path));
+        logger.debug(String.format("Reading file %s", path));
         List<CustomerDTO> list = new ArrayList<>();
 
         String line = "";
         String cvsSplitBy = ",";
 
-        try (BufferedReader br = new BufferedReader(new FileReader(path))){
+        try(BufferedReader br = new BufferedReader(new FileReader(path))){
 
-            logger.debug (String.format ("Loading values from file %s", path));
-            while ((line = br.readLine()) != null) {
+            logger.debug(String.format("Loading values from file %s", path));
+            while((line = br.readLine()) != null) {
 
-                logger.debug (String.format ("Getting new line from file %s", path));
+                logger.debug(String.format("Getting new line from file %s", path));
                 String[] val = line.split(cvsSplitBy);
-                logger.debug (String.format ("Line %s loaded from file %s", Arrays.toString(val), path));
+                logger.debug(String.format("Line %s loaded from file %s", Arrays.toString(val), path));
 
                 CustomerDTO customer = new CustomerDTO();
                 customer.setAge(Integer.valueOf(val[4].trim()));
@@ -41,12 +40,12 @@ public class CSVReaderService {
                 customer.setLastName(val[1].trim());
                 customer.setMobile(val[3].trim());
 
-                logger.debug (String.format ("Adding %s to list", customer));
+                logger.debug(String.format("Adding %s to list", customer));
                 list.add(customer);
             }
 
         } catch(Exception e) {
-            logger.error (String.format("Problems loading lines from %s", path), e);
+            logger.error(String.format("Problems loading lines from %s", path), e);
         }
 
         logger.debug (String.format("Return %d values", list.size()));
