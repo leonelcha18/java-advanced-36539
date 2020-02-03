@@ -34,6 +34,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Leonel Chaves &lt;leonel.a.cha@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
@@ -76,6 +81,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="462" y="115" key="CommitChangelistDialog2" timestamp="1580734613312">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="462" y="115" key="CommitChangelistDialog2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1580734613312" />
     <state x="656" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1580733783871">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
