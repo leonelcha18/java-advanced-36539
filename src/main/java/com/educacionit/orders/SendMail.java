@@ -7,7 +7,6 @@ import java.util.Properties;
 
 public class SendMail {
     public static void main (String[] args) {
-
         final String username = "educacionit.testing@gmail.com";
         final String password = "Mexico86";
 
@@ -25,7 +24,6 @@ public class SendMail {
                 });
 
         try {
-
             Message message = new MimeMessage(session);
             message.setFrom(new InternetAddress("from@gmail.com"));
             message.setRecipients(
@@ -40,7 +38,7 @@ public class SendMail {
 
             System.out.println("Done");
 
-        } catch(MessagingException e) {
+        } catch (MessagingException e) {
             e.printStackTrace();
         }
     }
